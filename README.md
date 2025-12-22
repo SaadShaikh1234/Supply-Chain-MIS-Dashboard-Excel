@@ -57,7 +57,6 @@ Data consistency checks were performed:
 ## 🖼️ Dashboard Preview
 
 <img width="989" height="477" alt="image" src="https://github.com/user-attachments/assets/d3db4dff-7027-4197-8cb0-b3e3975bcece" />   <img width="1169" height="476" alt="image" src="https://github.com/user-attachments/assets/9270c19b-10e9-4e95-a45a-4c6eee03c5d1" />
-
 <img width="1168" height="489" alt="image" src="https://github.com/user-attachments/assets/dbdd6248-9240-4f9a-ba21-4d60971e893b" />  <img width="1505" height="551" alt="image" src="https://github.com/user-attachments/assets/3c9bd8f6-9af2-4cb9-8a31-a94ff68af925" />
 
 
