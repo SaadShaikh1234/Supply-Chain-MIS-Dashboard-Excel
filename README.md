@@ -184,7 +184,7 @@ All KPIs are benchmarked or contextualized to avoid standalone averages.
 
 - Pivot Tables & Pivot Charts
 
-- GETPIVOTDATA for connecting pivot tables with normal tables, so advance charts (like tree map,scatter chart, etc.) also gets changed with dashboard-wide slicers
+- `GETPIVOTDATA` for connecting pivot tables with normal tables, so advance charts (like tree map,scatter chart, etc.) also gets changed with dashboard-wide slicers
 
 - Advanced Excel formulas (SUMPRODUCT, cumulative logic, KPI calculations)
 
