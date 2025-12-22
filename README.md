@@ -142,7 +142,7 @@ Key insights:
 
 This dashboard answers:
 
-“Where should management focus attention right now?”
+> “Where should management focus attention right now?”
 
 ---
 
