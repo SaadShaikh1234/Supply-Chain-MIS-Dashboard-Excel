@@ -152,19 +152,24 @@ This dashboard answers:
 ## 📐 Key KPI Definitions
 
 - **On-Time Delivery %**
+  
 % of orders where shipping time ≤ lead time
 
 - **Sell-Through Rate**
+  
 Products sold ÷ (Products sold + Current inventory)
 
 - **Manufacturing Efficiency**
+  
 Production output relative to manufacturing lead time
 Benchmarked against a defined target
 
 - **Inventory Deficit**
+  
 Negative inventory balance indicating unmet demand
 
 - **Defect Rate**
+  
 Average defect percentage from inspection results
 
 All KPIs are benchmarked or contextualized to avoid standalone averages.
