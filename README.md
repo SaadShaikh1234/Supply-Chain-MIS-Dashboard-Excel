@@ -162,6 +162,7 @@ This dashboard answers:
 - **Manufacturing Efficiency**
   
   Production output relative to manufacturing lead time
+
   Benchmarked against a defined target
 
 - **Inventory Deficit**
