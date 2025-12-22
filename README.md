@@ -180,11 +180,17 @@ All KPIs are benchmarked or contextualized to avoid standalone averages.
 
 - Microsoft Excel
 
+- Data cleaning and preparation, Data consistency checks (datatype validation), Custom column creation (Profit, Current inventory i.e remaining inventory)
+
 - Pivot Tables & Pivot Charts
+
+- GETPIVOTDATA for connecting pivot tables with normal tables, so advance charts (like tree map,scatter chart, etc.) also gets changed with dashboard-wide slicers
 
 - Advanced Excel formulas (SUMPRODUCT, cumulative logic, KPI calculations)
 
 - Slicers for interactive filtering
+
+- Paste Special → Linked Picture to display dynamic pivot table summaries within dashboards
 
 - Waterfall, Pareto, Scatter, Combo, Tree Map, and KPI Gauge charts
 
