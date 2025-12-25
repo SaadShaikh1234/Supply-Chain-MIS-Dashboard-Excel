@@ -84,7 +84,7 @@ Design choice:
 
 ### 2️⃣ Inventory & Orders Dashboard
 
-Purpose: Identify inventory risk, fulfillment bottlenecks, and demand pressure.
+**Purpose:** Identify inventory risk, fulfillment bottlenecks, and demand pressure.
 
 Key insights:
 
@@ -128,7 +128,7 @@ Important consideration:
 
 ### 4️⃣ Executive Summary Dashboard
 
-Purpose: Provide a leadership-level view of supply chain health.
+**Purpose:** Provide a leadership-level view of supply chain health.
 
 Key insights:
 
